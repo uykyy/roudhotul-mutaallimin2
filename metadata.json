@@ -1,0 +1,5 @@
+{
+  "name": "Falaq Roudhotul Mutaallimin 2",
+  "description": "Alat perhitungan astronomi Islam profesional untuk ephemeris bulan, ijtima, dan visibilitas hilal.",
+  "requestFramePermissions": ["geolocation"]
+}
